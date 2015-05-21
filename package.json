@@ -1,0 +1,11 @@
+{
+  "name": "btconnector",
+  "description": "Blue Tooth Empatica connection test",
+  "version": "0.0.1",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "noble": "~1.0.1",
+    "async": "latest"
+  }
+}

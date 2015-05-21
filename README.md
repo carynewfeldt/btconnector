@@ -23,7 +23,8 @@ The js files listed below are example files from the [noble git repository](http
 <pre>$ npm install</pre>
 
 * You will see a number of node modules being installed to your system
-* Now test the bluetooth connection to the device
+
+* To test the bluetooth connection to a number of devices
 * Call the node advertisement-discovery.js file to connect to all bluetooth devices in your vicinity
 
 <pre>
@@ -39,6 +40,7 @@ here is my manufacturer data:
 
 You will see other devices here as well. </pre>
 
+* To test the bluetooth connection to a specific device
 * In the peripheral-explorer.js add the device UUID to the peripheralUuid variable.
 
 <pre>var peripheralUuid = "1c234567cc24acc4c2c2e0e03cfc123";</pre>

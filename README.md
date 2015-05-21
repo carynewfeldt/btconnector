@@ -35,11 +35,10 @@ hello my local name is:
 can I interest you in any of the following advertised services:
   []
 here is my manufacturer data:
-  "4c0009060286a9fef46c"
+  "0000000000000000000000"
 
-</pre>
+You will see other devices here as well. </pre>
 
-* Test connection to a specific device
 * In the peripheral-explorer.js add the device UUID to the peripheralUuid variable.
 * Ensure your device is in discover mode
 * Call the node peripheral-explorer.js file to connect to the specified bluetooth device
@@ -93,6 +92,4 @@ services and characteristics:
   3eb2 (DEVICE Control)
     properties  notify
   3eb3 (Battery)
-    properties  notify
-
-</pre>
+    properties  notify</pre>

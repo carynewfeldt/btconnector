@@ -40,6 +40,9 @@ here is my manufacturer data:
 You will see other devices here as well. </pre>
 
 * In the peripheral-explorer.js add the device UUID to the peripheralUuid variable.
+
+<pre>var peripheralUuid = "1c234567cc24acc4c2c2e0e03cfc123";</pre>
+
 * Ensure your device is in discover mode
 * Call the node peripheral-explorer.js file to connect to the specified bluetooth device
 * You will see the following if connection is successful

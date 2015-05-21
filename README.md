@@ -45,11 +45,12 @@ You will see other devices here as well. </pre>
 
 * Ensure your device is in discover mode
 * Call the node peripheral-explorer.js file to connect to the specified bluetooth device
+
+<pre> $ node peripheral-explorer.js</pre>
+
 * You will see the following if connection is successful
 
 <pre>
-
-$ node peripheral-explorer.js
 
 peripheral with UUID 1c234567cc24acc4c2c2e0e03cfc123 found
   Local Name        = DEVICE_NAME

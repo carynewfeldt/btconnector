@@ -4,9 +4,9 @@ A general test to build a connection to a low power bluetooth device
 
 This write up assumes you have node with NPM installed. If not please install node and NPM on your system.
 
-(NPM install instructions)[https://www.npmjs.com/package/npm]
+[NPM install instructions](https://www.npmjs.com/package/npm)
 
-The js files listed below are example files from the (noble git repository)[https://github.com/sandeepmistry/noble/tree/master/examples]
+The js files listed below are example files from the [noble git repository](https://github.com/sandeepmistry/noble/tree/master/examples)
 
 ## Steps
 
